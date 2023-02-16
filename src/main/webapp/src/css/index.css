@@ -1,0 +1,51 @@
+.line{
+    width: 400px;
+    height: 40px;
+}
+#input_money{
+    width : 120px;
+    height: 15px;
+    transform: translateY(-5%);
+}
+#exchange_form{
+    margin : 15px;
+    border: 0.5px solid gray;
+    border-radius:10%;
+    opacity:1;
+}
+#from_exchange_box{
+    margin-left: 190px;
+    width: 90px;
+    height: 35px;
+    border: white;
+    opacity: 0.8;
+    transform: translateY(-80%);
+}
+#from_text1{
+    margin-left: 100px;
+}
+#from_text2{
+    margin-left: 100px;
+}
+#exchange_botton{
+    margin-left: 540px;
+    transform: translateY(-400%);
+}
+#to_exchange_box{
+    margin-left: 330px;
+    width: 90px;
+    height: 35px;
+    border: white;
+    opacity: 0.8;
+    transform: translateY(-180%);
+}
+#result{
+    margin-left:60px;
+    transform: translateY(-400%);
+}
+#money_value{
+    margin-left: 10px;
+    width: 200px;
+    height: 36px;
+    border: none;
+}

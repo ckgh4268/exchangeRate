@@ -1,0 +1,18 @@
+{
+  "name": "take_home_quiz",
+  "version": "1.0.0",
+  "description": "quiz",
+  "main": "index.js",
+  "scripts": {
+    "test": "quiz"
+  },
+  "repository": {
+    "type": "git",
+    "url": "take_home_quiz"
+  },
+  "keywords": [
+    "take_home_quiz"
+  ],
+  "author": "take_home_quiz",
+  "license": "ISC"
+}
