@@ -3,7 +3,7 @@ import styles from '../css/index.css';
 import { getExchangeRate } from './Api.js';
 
 const Quiz = () => {
- 
+
     //변환하고자 하는 화폐
     const [fromMoney, setFromMoney] = useState('KRW');
     //변환하고자 하는 대상의 화폐
