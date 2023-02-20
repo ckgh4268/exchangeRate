@@ -12,7 +12,7 @@ const Quiz = () => {
     const [exchangeRate, setExchangeRate] = useState(null);
     //입력금액
     const [InputMoney, setInputMoney] = useState('');
-     
+      
     //set변수
     const ChangeFromMoney = (e) => {
       setFromMoney(e.target.value);
