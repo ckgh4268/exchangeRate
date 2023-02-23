@@ -64,7 +64,7 @@ const Quiz = () => {
         </div>
         <div> 
             <label> 
-                 
+                
             <select id="to_exchange_box" value={toMoney} onChange={ChangeToMoney}>
                 <option value="USD">미국 달러</option>
                 <option value="KRW">대한민국 원</option>
