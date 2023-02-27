@@ -62,7 +62,7 @@ const Quiz = () => {
                 </select>
             </label>
         </div>
-        <div>  
+        <div>   
             <label> 
                 
             <select id="to_exchange_box" value={toMoney} onChange={ChangeToMoney}>
