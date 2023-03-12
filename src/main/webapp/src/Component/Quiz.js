@@ -60,7 +60,7 @@ const Quiz = () => {
                     <option value="USD">미국 달러</option>
                     <option value="JPY">일본 엔화</option>
                 </select>
-            </label>
+            </label> 
         </div>  
         <div>     
             <label> 
