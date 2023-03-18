@@ -71,7 +71,7 @@ const Quiz = () => {
                 <option value="JPY">일본 엔화</option>
             </select>   
             </label>
-        </div>
+        </div> 
         <div>
             <button id="exchange_botton" onClick={exchangeMoney}>환전</button>
         </div>
